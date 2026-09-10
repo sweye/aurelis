@@ -1,10 +1,17 @@
-===============================================================================
-Aurelis
-Professional mobile audio processing and music editing.
-===============================================================================
+# Aurelis
 
-OVERVIEW
---------
+<p align="center">
+  <img src="assets/aurelis2.webp" width="180" alt="Aurelis">
+</p>
+
+<p align="center">
+  Professional mobile audio processing and music editing.
+</p>
+
+---
+
+## Overview
+
 Aurelis is a mobile audio processing platform designed for musicians,
 vocalists, producers, and creators who want detailed control over their
 sound.
@@ -16,25 +23,23 @@ without relying on external audio applications.
 Aurelis is designed to grow beyond basic audio manipulation into a complete
 mobile audio workstation.
 
+## Core Processing
 
-CORE PROCESSING
----------------
-
-Pitch & Time:
+### Pitch & Time
 - Independent pitch shifting
 - Independent tempo adjustment
 - Time stretching
 - Formant shifting
 - Pitch/formant separation
 
-Dynamics:
+### Dynamics
 - Compressor
 - Limiter
 - Input/output gain
 - Threshold, ratio, attack, and release controls
 - Ceiling control
 
-Spatial & Modulation:
+### Spatial & Modulation
 - Echo / delay
 - Reverb
 - Flanger
@@ -43,16 +48,15 @@ Spatial & Modulation:
 - High-frequency damping
 - Room-size control
 
-Stereo & Vocal Processing:
+### Stereo & Vocal Processing
 - Vocal reduction
 - Low/high frequency filtering
 - Mono processing
 - Independent left/right input gain
 - Stereo inversion
 
+## Audio Engine
 
-AUDIO ENGINE
-------------
 Aurelis is built around an independent DSP architecture rather than
 implementing effects as UI-only controls.
 
@@ -63,9 +67,8 @@ format.
 The architecture is designed so individual processors can be improved or
 replaced without requiring the entire application to be rewritten.
 
+## Processing Philosophy
 
-PROCESSING PHILOSOPHY
----------------------
 Aurelis aims to provide:
 
 - High-quality audio processing
@@ -77,18 +80,16 @@ Aurelis aims to provide:
 - Reliable offline rendering
 - Low-latency audio capabilities where supported
 
+## Development
 
-DEVELOPMENT
------------
 The repository contains the Aurelis application, audio-processing engine,
 DSP components, Android integration, and supporting development tools.
 
 The project is actively developed and features may change as the processing
 engine evolves.
 
+## Contributing
 
-CONTRIBUTING
-------------
 Aurelis is open to development contributions and improvements.
 
 Contributors may inspect and modify the source for development purposes.
@@ -99,9 +100,8 @@ owner.
 Please contact the project owner before publicly redistributing Aurelis or
 creating an independent release.
 
+## Releases
 
-RELEASES
---------
 Official builds are published through GitHub Releases.
 
 Each release may include:
@@ -113,9 +113,8 @@ Each release may include:
 - DSP improvements
 - New processing features
 
+## License
 
-LICENSE
--------
 Aurelis Personal Development License
 
 Copyright Â© 2026 Aurelis. All rights reserved.
