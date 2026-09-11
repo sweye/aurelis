@@ -1,7 +1,7 @@
 # Aurelis
 
 <p align="center">
-  <img src="assets/aurelis2.webp" width="180" alt="Aurelis">
+  <img src="assets/aurelis3_fixed.png" width="180" alt="Aurelis">
 </p>
 
 <p align="center">
